@@ -22,6 +22,7 @@ source .venv/bin/activate   # Linux/macOS
 ## Install dependencies:
 ```
 pip install -r requirements.txt
+spacy download en_core_web_sm
 ```
 
 # Run the bookly program
