@@ -6,6 +6,9 @@ git clone https://github.com/hvdyinv4688hbv/bookly.git
 ```
 
 ## Set up virtual environment:
+### Download python from
+https://www.python.org/downloads/
+### if you have a scarcity of [insert joke here later]
 ```
 cd bookly
 python3 -m venv .venv
