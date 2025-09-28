@@ -5,10 +5,11 @@
 git clone https://github.com/hvdyinv4688hbv/bookly.git
 ```
 
-## Set up virtual environment:
 ### Download python from
 https://www.python.org/downloads/
-### if you have a scarcity of [insert joke here later]
+### if you need [insert joke here later]
+
+## Set up virtual environment:
 ```
 cd bookly
 python3 -m venv .venv
@@ -28,13 +29,11 @@ pip install -r requirements.txt
 spacy download en_core_web_sm
 ```
 
-# Run the bookly program
+# Run from the bookly program
 ```
 python bookly.py
 ```
 
-### If you need some books:
+### If you need some .pdf:
 https://openlibrary.org/
 https://archive.org/
-
-#### bookly only accepts .pdf by the way
