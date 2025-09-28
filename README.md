@@ -29,3 +29,9 @@ spacy download en_core_web_sm
 ```
 python bookly.py
 ```
+
+### If you need some books:
+https://openlibrary.org/
+https://archive.org/
+
+#### bookly only accepts .pdf by the way
